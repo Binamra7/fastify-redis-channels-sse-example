@@ -22,7 +22,7 @@ npm install
 
 ## Usage
 
-To try this example make sure you have up and running Redis server on the default host `localhost' and port `6379`. For more info about the installation see on Redis [download](https://redis.io/download) page.
+To try this example make sure you have up and running Redis server on the default host `localhost` and port `6379`. For more info about the installation see on Redis [download](https://redis.io/download) page.
 
 Start a server with a command:
 
